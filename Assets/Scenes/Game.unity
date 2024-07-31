@@ -451,6 +451,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 616dd184a01d8d64da323e79a41661c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player_data: {fileID: 11400000, guid: 5b8cc4e65e0c7ac4b9e82fd6ab12d535, type: 2}
   questions: []
   names: []
   name_slot_def: []
